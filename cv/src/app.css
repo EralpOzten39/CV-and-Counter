@@ -1,0 +1,4 @@
+.sApp {
+  display: flex;
+  flex-direction: row;
+}

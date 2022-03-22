@@ -1,0 +1,18 @@
+.sPersInfo {
+  margin: 5px;
+  margin-bottom: 0px;
+  background-color: lightgrey;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
